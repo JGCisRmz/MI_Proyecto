@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(224, 216, 166);
+}
+
+canvas{
+    background-color: rgb(70, 42, 121);
+    height: 640px;
+    width: 100%;
+}
+
+.fondo_base{
+    background-color: rgb(198, 199, 194);
+}
