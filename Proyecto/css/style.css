@@ -1,5 +1,9 @@
 body{
     background-color: rgb(224, 216, 166);
+    font-family: 'Luckiest Guy';
+    background-image: url('../bug.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 canvas{
@@ -9,5 +13,9 @@ canvas{
 }
 
 .fondo_base{
-    background-color: rgb(198, 199, 194);
+    background-color:white;
+}
+.card-header{
+    background-color:rgb(0, 123, 255);
+    color:white
 }
