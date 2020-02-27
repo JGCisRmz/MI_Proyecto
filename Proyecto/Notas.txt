@@ -1,0 +1,8 @@
+* Agregar Pop para los controles 
+* Agregar mas info al Footbar
+* Pagina con Leaderboard, con sus respectivos botones de compartir
+* Hacer un Card con tu informacion de la partida y botones para compartir
+
+
+
+** Si nos da gana y tiempo, hacer animacion de darle click al logo y luego aparesca el Canvas
